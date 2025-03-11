@@ -52,7 +52,7 @@ Example: `git checkout -b add-capture-guide`
 ### <mark style="color:blue;">4. Edit the Wiki</mark>
 
 * Use Visual Studio Code to edit markdown (`.md`) files.
-* You can also create new files, for example, `how-to-capture-pokemon.md`.
+* You can also create new files, for example, `how-to-play.md`.
 
 Example of a simple markdown structure:
 
@@ -75,7 +75,7 @@ In your terminal, add and commit your changes:
 
 ```bash
 git add .
-git commit -m "Added guide on capturing Pokémon"
+git commit -m "Added guide on devil fruits"
 ```
 
 ### <mark style="color:blue;">6. Push Your Contribution</mark>
