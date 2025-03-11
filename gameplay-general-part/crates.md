@@ -8,7 +8,7 @@ To add a <mark style="color:yellow;">**random element**</mark> to your <mark sty
 
 Some are <mark style="color:yellow;">**permanently available**</mark>, while others are <mark style="color:yellow;">**temporary**</mark>.&#x20;
 
-To <mark style="color:yellow;">**open these crates**</mark>, you'll need to go to <mark style="color:yellow;">**`/spawn`**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**with a key**</mark>. The <mark style="color:yellow;">**crates**</mark> will be in <mark style="color:yellow;">**front of you**</mark>, and they are also <mark style="color:yellow;">**distributed**</mark> across different <mark style="color:orange;">**adventure islands**</mark>.
+To <mark style="color:yellow;">**open these crates**</mark>, you'll need to go to <mark style="color:yellow;">**`/spawn`**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**with a key**</mark>. The <mark style="color:yellow;">**crates**</mark> will be in <mark style="color:yellow;">**front of you**</mark>, and they are also <mark style="color:yellow;">**distributed**</mark> across different <mark style="color:orange;">**adventure islands**</mark>.
 
 There are <mark style="color:yellow;">**various ways**</mark> to obtain <mark style="color:yellow;">**keys**</mark>: by <mark style="color:yellow;">**buying them**</mark> in the shop with <mark style="color:green;">**Gems**</mark>, <mark style="color:yellow;">**voting**</mark> for the server, or winning them in <mark style="color:yellow;">**events**</mark>.
 

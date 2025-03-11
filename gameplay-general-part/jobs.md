@@ -37,10 +37,10 @@ Don't forget the <mark style="color:yellow;">**`/jobs claim`**</mark> to retriev
 
 Understanding the <mark style="color:yellow;">**different types of jobs boosts**</mark> is crucial to maximizing your performance. Here's a detailed explanation:&#x20;
 
-* <mark style="color:yellow;">**Global (Certain Pets and Potions)**</mark>** :** Affects all aspects of your trades (XP and money).
-* <mark style="color:yellow;">**Jobs (Some Pets and Some Potions)**</mark>** :** Targets a specific job to improve the XP and money earned.&#x20;
-* <mark style="color:yellow;">**XP (Knowledge Potion)**</mark>** :** Increases XP earned for a specific profession.&#x20;
-* <mark style="color:yellow;">**Money (Wealth Potion)**</mark>** :** Increases the money earned for a specific profession.&#x20;
+* <mark style="color:yellow;">**Global (Certain Pets and Potions)**</mark>**&#x20;:** Affects all aspects of your trades (XP and money).
+* <mark style="color:yellow;">**Jobs (Some Pets and Some Potions)**</mark>**&#x20;:** Targets a specific job to improve the XP and money earned.&#x20;
+* <mark style="color:yellow;">**XP (Knowledge Potion)**</mark>**&#x20;:** Increases XP earned for a specific profession.&#x20;
+* <mark style="color:yellow;">**Money (Wealth Potion)**</mark>**&#x20;:** Increases the money earned for a specific profession.&#x20;
 
 ### <mark style="color:orange;">Important points</mark>
 

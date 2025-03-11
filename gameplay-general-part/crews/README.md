@@ -56,7 +56,7 @@ The <mark style="color:yellow;">**character**</mark> on the <mark style="color:y
 <figure><img src="../../.gitbook/assets/is members.jpg" alt=""><figcaption><p>Menu <mark style="color:yellow;"><strong><code>/is members</code></strong></mark></p></figcaption></figure>
 
 \
-The <mark style="color:yellow;">**fifth compass**</mark>-shaped <mark style="color:yellow;">**button**</mark> allows you to <mark style="color:yellow;">**manage island permissions**</mark>, either those of the <mark style="color:yellow;">**island**</mark> <mark style="color:yellow;">**grades**</mark><mark style="color:yellow;">** **</mark><mark style="color:yellow;">**`/is perms`**</mark> or those of a particular player <mark style="color:yellow;">**`/is perms [Username]`**</mark>.
+The <mark style="color:yellow;">**fifth compass**</mark>-shaped <mark style="color:yellow;">**button**</mark> allows you to <mark style="color:yellow;">**manage island permissions**</mark>, either those of the <mark style="color:yellow;">**island**</mark> <mark style="color:yellow;">**grades**</mark><mark style="color:yellow;">**&#x20;**</mark><mark style="color:yellow;">**`/is perms`**</mark> or those of a particular player <mark style="color:yellow;">**`/is perms [Username]`**</mark>.
 
 {% hint style="info" %}
 Detailed information on permissions is available here: <mark style="color:orange;">**Island Permissions**</mark>

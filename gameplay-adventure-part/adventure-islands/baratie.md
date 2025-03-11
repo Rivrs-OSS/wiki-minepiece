@@ -60,7 +60,7 @@ To discover the <mark style="color:yellow;">**exclusive recipes**</mark> of the 
 * **Rose**
 * **Carrot**
 
-<mark style="color:blue;">**Bette Kabuki**</mark>** :**&#x20;
+<mark style="color:blue;">**Bette Kabuki**</mark>**&#x20;:**&#x20;
 
 * **Cooked Fighting Fish**
 * **Wheat**
@@ -72,7 +72,7 @@ To discover the <mark style="color:yellow;">**exclusive recipes**</mark> of the 
 * **Bottle of Water**&#x20;
 * **Beetroot**
 
-&#x20;<mark style="color:yellow;">**Tako Tako Surprise**</mark>** :**&#x20;
+&#x20;<mark style="color:yellow;">**Tako Tako Surprise**</mark>**&#x20;:**&#x20;
 
 * **Cooked octopus**
 * **Brown mushroom**

@@ -31,7 +31,7 @@ Take advantage of this island to strengthen your character and progress in your 
 ## <mark style="color:orange;">Drop Rates</mark>
 
 **Orange** [🍊](https://emojiterra.com/fr/mandarine/)**:** \
-&#x20;        ** -** <mark style="color:yellow;">**Buggy**</mark>**:** Quantity -> <mark style="color:yellow;">**+2,800**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Buggy**</mark>**:** Quantity -> <mark style="color:yellow;">**+2,800**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>**:** Quantity -> <mark style="color:yellow;">**+400**</mark> [🍊](https://emojiterra.com/fr/mandarine/)\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>\
@@ -39,15 +39,15 @@ Take advantage of this island to strengthen your character and progress in your 
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Buggy's Cannonballs:** \
-&#x20;        ** -** <mark style="color:yellow;">**Buggy**</mark>**:** Quantity -> <mark style="color:yellow;">**x2**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Buggy**</mark>**:** Quantity -> <mark style="color:yellow;">**x2**</mark>\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Cabaji**</mark>**:** Quantity -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>\
-&#x20;         **- **<mark style="color:yellow;">**Sailor**</mark>**:** Quantity -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;         **-&#x20;**<mark style="color:yellow;">**Sailor**</mark>**:** Quantity -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**3%**</mark>
 
 **Bounty:** \
-&#x20;        ** -** <mark style="color:yellow;">**Buggy**</mark>**:** Quantity -> <mark style="color:yellow;">**+4,500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Buggy**</mark>**:** Quantity -> <mark style="color:yellow;">**+4,500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                           Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Bronze Berry:** \

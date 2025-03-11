@@ -12,7 +12,7 @@ Devil Fruits can be <mark style="color:yellow;">**enhanced**</mark> to unlock ne
 
 ### <mark style="color:orange;">**Level 2 Upgrade**</mark>
 
-* <mark style="color:yellow;">**Required Resources**</mark>** :**
+* <mark style="color:yellow;">**Required Resources**</mark>**&#x20;:**
   * **Money**
   * **Rumble Balls (dropped by mobs on adventure islands)**
   * **Demonic Essence (dropped by bosses on adventure islands)**
@@ -20,7 +20,7 @@ Devil Fruits can be <mark style="color:yellow;">**enhanced**</mark> to unlock ne
 
 ### <mark style="color:orange;">**Awakening**</mark>
 
-* <mark style="color:yellow;">**Required Resources**</mark>** :**
+* <mark style="color:yellow;">**Required Resources**</mark>**&#x20;:**
   * **Money**
   * **Demonic Essence**
   * **Several Level 2 Devil Fruits of the fruit to be awakened**

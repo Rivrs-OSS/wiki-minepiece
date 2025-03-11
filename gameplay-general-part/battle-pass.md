@@ -54,23 +54,23 @@ To subscribe to this <mark style="color:yellow;">**service**</mark>, go to the [
 
 ### <mark style="color:orange;">**List of Benefits**</mark>
 
-* <mark style="color:green;">**1500 Gems**</mark>** ** _(Every month)_
-* **No **<mark style="color:yellow;">**experience loss**</mark>** upon death**
-* <mark style="color:yellow;">**Multi-launch**</mark>** of adventure crates**
-* **No **<mark style="color:yellow;">**teleportation**</mark>** cooldown**
-* **Unique **<mark style="color:yellow;">**color**</mark>** in chat**
-* **Choice of **<mark style="color:yellow;">**highlight color**</mark>
-* <mark style="color:yellow;">**Exclusive icon**</mark>** next to your username**
-* **Access to **<mark style="color:yellow;">**`/kit premium`**</mark>  _(Every 72 hours)_
-* **Colors in chat **<mark style="color:yellow;">**`/color`**</mark>
-* **Colors in description **<mark style="color:yellow;">**`/pw`**</mark>
-* **Access to **<mark style="color:yellow;">**`/emoji`**</mark>
-* **Access to **<mark style="color:yellow;">**`/ec`**</mark>
-* **Access to **<mark style="color:yellow;">**`/craft`**</mark>
-* **Access to **<mark style="color:yellow;">**`/feed`**</mark>
-* **Access to **<mark style="color:yellow;">**`/sell all`**</mark>
-* **Access to **<mark style="color:yellow;">**`/hdb`**</mark>
-* **Access to the **<mark style="color:yellow;">**Premium Pass**</mark>
+* <mark style="color:green;">**1500 Gems**</mark>**&#x20;** _(Every month)_
+* **No&#x20;**<mark style="color:yellow;">**experience loss**</mark>**&#x20;upon death**
+* <mark style="color:yellow;">**Multi-launch**</mark>**&#x20;of adventure crates**
+* **No&#x20;**<mark style="color:yellow;">**teleportation**</mark>**&#x20;cooldown**
+* **Unique&#x20;**<mark style="color:yellow;">**color**</mark>**&#x20;in chat**
+* **Choice of&#x20;**<mark style="color:yellow;">**highlight color**</mark>
+* <mark style="color:yellow;">**Exclusive icon**</mark>**&#x20;next to your username**
+* **Access to&#x20;**<mark style="color:yellow;">**`/kit premium`**</mark>  _(Every 72 hours)_
+* **Colors in chat&#x20;**<mark style="color:yellow;">**`/color`**</mark>
+* **Colors in description&#x20;**<mark style="color:yellow;">**`/pw`**</mark>
+* **Access to&#x20;**<mark style="color:yellow;">**`/emoji`**</mark>
+* **Access to&#x20;**<mark style="color:yellow;">**`/ec`**</mark>
+* **Access to&#x20;**<mark style="color:yellow;">**`/craft`**</mark>
+* **Access to&#x20;**<mark style="color:yellow;">**`/feed`**</mark>
+* **Access to&#x20;**<mark style="color:yellow;">**`/sell all`**</mark>
+* **Access to&#x20;**<mark style="color:yellow;">**`/hdb`**</mark>
+* **Access to the&#x20;**<mark style="color:yellow;">**Premium Pass**</mark>
 
 {% hint style="info" %}
 Now, you are fully informed about the MinePiece Battle Pass!

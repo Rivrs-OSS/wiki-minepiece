@@ -31,23 +31,23 @@ Take advantage of this island to strengthen your character and progress in your 
 ## <mark style="color:orange;">Drop Rates</mark>
 
 **Scrap:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+1,900**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+1,900**</mark>\
 &#x20;                              Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Bandit**</mark>**:** Quantity -> <mark style="color:yellow;">**+9**</mark>\
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Sake Bottle:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>**:** Quantity -> <mark style="color:yellow;">**x2**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**:** Quantity -> <mark style="color:yellow;">**x2**</mark>\
 &#x20;                              Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Bandit**</mark>**:** Quantity -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                            Chance -> <mark style="color:yellow;">**4%**</mark>
 
 **Bounty:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+3,000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+3,000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                              Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Bronze Berry:** \
-&#x20;        ** -** <mark style="color:yellow;">**Higuma**</mark>** :** Quantity -> <mark style="color:yellow;">**x1**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Higuma**</mark>**&#x20;:** Quantity -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                               Chance -> <mark style="color:yellow;">**100%**</mark>
 
 ## <mark style="color:orange;">Foosha Crate</mark>

@@ -33,7 +33,7 @@ Take advantage of this island to strengthen your character and progress in your 
 ## <mark style="color:orange;">**Drop Rates**</mark>
 
 **Alabaster:** \
-&#x20;        ** -** <mark style="color:yellow;">**Crocodile**</mark>**:** Quantity -> <mark style="color:yellow;">**+3,800**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Crocodile**</mark>**:** Quantity -> <mark style="color:yellow;">**+3,800**</mark>\
 &#x20;                                 Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Mister One**</mark>**:** Quantity -> <mark style="color:yellow;">**+400**</mark>\
 &#x20;                                    Chance -> <mark style="color:yellow;">**100%**</mark>\
@@ -43,7 +43,7 @@ Take advantage of this island to strengthen your character and progress in your 
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Cigar:** \
-&#x20;        ** -** <mark style="color:yellow;">**Crocodile**</mark>**:** Quantity -> <mark style="color:yellow;">**x3**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Crocodile**</mark>**:** Quantity -> <mark style="color:yellow;">**x3**</mark>\
 &#x20;                                 Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Mister One**</mark>**:** Quantity -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                    Chance -> <mark style="color:yellow;">**100%**</mark>\
@@ -53,7 +53,7 @@ Take advantage of this island to strengthen your character and progress in your 
 &#x20;                          Chance -> <mark style="color:yellow;">**2%**</mark>
 
 **Bounty** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Crocodile**</mark>**:** Quantity -> <mark style="color:yellow;">**+6,000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Crocodile**</mark>**:** Quantity -> <mark style="color:yellow;">**+6,000**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                                 Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Silver Berry:** \

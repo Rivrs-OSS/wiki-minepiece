@@ -88,7 +88,7 @@ When a pet is in <mark style="color:green;">**active**</mark> mode, its <mark st
 
 When a pet is in <mark style="color:yellow;">**passive**</mark> mode, its <mark style="color:yellow;">**effects**</mark> and <mark style="color:yellow;">**abilities**</mark> remain <mark style="color:yellow;">**operational**</mark>, but your pet is <mark style="color:yellow;">**not physically**</mark> <mark style="color:yellow;">**present**</mark> beside you.
 
-### <mark style="color:orange;">**Status :**</mark>** **<mark style="color:red;">**Inactive**</mark>
+### <mark style="color:orange;">**Status :**</mark>**&#x20;**<mark style="color:red;">**Inactive**</mark>
 
 When a pet is in <mark style="color:red;">**inactive**</mark> mode, it <mark style="color:yellow;">**stays away**</mark> and <mark style="color:yellow;">**does not participate in actions**</mark> or <mark style="color:yellow;">**effects**</mark>. However, it remains <mark style="color:yellow;">**under your guard**</mark> and <mark style="color:yellow;">**ready to be activated**</mark> when you wish.
 

@@ -33,41 +33,41 @@ description: >-
 
 #### <mark style="color:orange;">**Opponents (1 Impel Down Point)**</mark>
 
-* <mark style="color:yellow;">**Blue Gorilla**</mark>** : Lvl 1, 3 and 6**
-* <mark style="color:yellow;">**Guard**</mark>** : Lvl 1, 3 and 5**
-* <mark style="color:yellow;">**Executioner**</mark>** : Lvl 4 and 6**
-* <mark style="color:yellow;">**Prisoner**</mark>** : Lvl 4 and 5.5**
-* <mark style="color:yellow;">**Puzzle Scorpion**</mark>** : Lvl 2**
-* <mark style="color:yellow;">**Manticores**</mark>** : Lvl 2**
-* <mark style="color:yellow;">**Wolf**</mark>** : Lvl 5**
+* <mark style="color:yellow;">**Blue Gorilla**</mark>**&#x20;: Lvl 1, 3 and 6**
+* <mark style="color:yellow;">**Guard**</mark>**&#x20;: Lvl 1, 3 and 5**
+* <mark style="color:yellow;">**Executioner**</mark>**&#x20;: Lvl 4 and 6**
+* <mark style="color:yellow;">**Prisoner**</mark>**&#x20;: Lvl 4 and 5.5**
+* <mark style="color:yellow;">**Puzzle Scorpion**</mark>**&#x20;: Lvl 2**
+* <mark style="color:yellow;">**Manticores**</mark>**&#x20;: Lvl 2**
+* <mark style="color:yellow;">**Wolf**</mark>**&#x20;: Lvl 5**
 
 #### <mark style="color:orange;">**Mini-boss (25 Impel Down Points)**</mark>
 
-* <mark style="color:yellow;">**Hannyabal**</mark>** : Lvl 1**
-* <mark style="color:yellow;">**Bonclay**</mark>** : Lvl 2**
-* <mark style="color:yellow;">**MinoKoala**</mark>** : Lvl 3 (10 points Impel Down)**
-* <mark style="color:yellow;">**Minorhinoceros**</mark>** : Lvl 3 (10 points Impel Down)**
-* <mark style="color:yellow;">**Minozebrea**</mark>** : Lvl 3 (10 points Impel Down)**
-* <mark style="color:yellow;">**Minotaur**</mark>** : Lvl 3 (10 points Impel Down)**
-* <mark style="color:yellow;">**Saldeath**</mark>** : Lvl 4**
-* <mark style="color:yellow;">**Shiliex**</mark>** : Lvl 5**
-* <mark style="color:yellow;">**Ivankov**</mark>** : Lvl 5.5**
-* <mark style="color:yellow;">**Crocodile**</mark>** : Lvl 6**
+* <mark style="color:yellow;">**Hannyabal**</mark>**&#x20;: Lvl 1**
+* <mark style="color:yellow;">**Bonclay**</mark>**&#x20;: Lvl 2**
+* <mark style="color:yellow;">**MinoKoala**</mark>**&#x20;: Lvl 3 (10 points Impel Down)**
+* <mark style="color:yellow;">**Minorhinoceros**</mark>**&#x20;: Lvl 3 (10 points Impel Down)**
+* <mark style="color:yellow;">**Minozebrea**</mark>**&#x20;: Lvl 3 (10 points Impel Down)**
+* <mark style="color:yellow;">**Minotaur**</mark>**&#x20;: Lvl 3 (10 points Impel Down)**
+* <mark style="color:yellow;">**Saldeath**</mark>**&#x20;: Lvl 4**
+* <mark style="color:yellow;">**Shiliex**</mark>**&#x20;: Lvl 5**
+* <mark style="color:yellow;">**Ivankov**</mark>**&#x20;: Lvl 5.5**
+* <mark style="color:yellow;">**Crocodile**</mark>**&#x20;: Lvl 6**
 
 #### <mark style="color:orange;">**Boss (Victory)**</mark>
 
-* #### <mark style="color:yellow;">**Magellan**</mark>** : Lvl 6**
+* #### <mark style="color:yellow;">**Magellan**</mark>**&#x20;: Lvl 6**
 
 ## <mark style="color:orange;">**Dungeon Tickets**</mark>
 
 <mark style="color:yellow;">**Players**</mark> must possess <mark style="color:yellow;">**dungeon**</mark> tickets to <mark style="color:yellow;">**access it**</mark>.
 
-* <mark style="color:yellow;">**Tickets**</mark>** : Tickets do not accumulate from one day to the next.**
-  * <mark style="color:yellow;">**Slave**</mark>** → **<mark style="color:yellow;">**SuperNovae**</mark>** : 1 Ticket**
-  * <mark style="color:yellow;">**Warlord**</mark>** → **<mark style="color:yellow;">**Pirate King**</mark>** : 2 Tickets**
-  * <mark style="color:yellow;">**Hero**</mark> <mark style="color:yellow;">**& Elite**</mark>** : 2 Tickets**
-  * <mark style="color:yellow;">**Legend**</mark>** : 3 Tickets**
-  * <mark style="color:yellow;">**Premium Subscription**</mark>** : +1 ticket per day, cumulative with other requirements.**
+* <mark style="color:yellow;">**Tickets**</mark>**&#x20;: Tickets do not accumulate from one day to the next.**
+  * <mark style="color:yellow;">**Slave**</mark>**&#x20;→&#x20;**<mark style="color:yellow;">**SuperNovae**</mark>**&#x20;: 1 Ticket**
+  * <mark style="color:yellow;">**Warlord**</mark>**&#x20;→&#x20;**<mark style="color:yellow;">**Pirate King**</mark>**&#x20;: 2 Tickets**
+  * <mark style="color:yellow;">**Hero**</mark> <mark style="color:yellow;">**& Elite**</mark>**&#x20;: 2 Tickets**
+  * <mark style="color:yellow;">**Legend**</mark>**&#x20;: 3 Tickets**
+  * <mark style="color:yellow;">**Premium Subscription**</mark>**&#x20;: +1 ticket per day, cumulative with other requirements.**
 * <mark style="color:yellow;">**Ticket Regeneration**</mark> : Tickets are regenerated at **12am EST**.
 
 ## <mark style="color:orange;">**Dungeon Objective**</mark>

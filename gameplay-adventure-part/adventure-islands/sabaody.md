@@ -33,7 +33,7 @@ Take advantage of this island to strengthen your character and progress in your 
 ## <mark style="color:orange;">**Drop Rates**</mark>
 
 **Bubbles :** \
-&#x20;        ** -** <mark style="color:yellow;">**Kuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+8,500**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Kuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+8,500**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Sentomaru**</mark>**:** Quantity -> <mark style="color:yellow;">**+1,500**</mark>\
 &#x20;                                     Chance -> <mark style="color:yellow;">**100%**</mark>\
@@ -41,7 +41,7 @@ Take advantage of this island to strengthen your character and progress in your 
 &#x20;                            Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Bolts** **:** \
-&#x20;        ** -** <mark style="color:yellow;">**Kuma**</mark>**:** Quantity -> <mark style="color:yellow;">**x5**</mark>\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Kuma**</mark>**:** Quantity -> <mark style="color:yellow;">**x5**</mark>\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>\
 &#x20;         **-** <mark style="color:yellow;">**Sentomaru**</mark>**:** Quantity -> <mark style="color:yellow;">**x1**</mark>\
 &#x20;                                     Chance -> <mark style="color:yellow;">**100%**</mark>\
@@ -49,7 +49,7 @@ Take advantage of this island to strengthen your character and progress in your 
 &#x20;                            Chance -> <mark style="color:yellow;">**2%**</mark>
 
 **Bounty:** \
-&#x20;        ** -** <mark style="color:yellow;">**Kuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+13,500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
+&#x20;       &#x20;**&#x20;-** <mark style="color:yellow;">**Kuma**</mark>**:** Quantity -> <mark style="color:yellow;">**+13,500**</mark> [💀](https://emojipedia.org/fr/cr%C3%A2ne)\
 &#x20;                          Chance -> <mark style="color:yellow;">**100%**</mark>
 
 **Platinum Berry:** \
@@ -90,7 +90,7 @@ The <mark style="color:yellow;">**Premium Sabaody Crate**</mark> can be obtained
 |      <mark style="color:yellow;">**Job Booster**</mark>     |    **10%**    |
 |               **2x SuperNova Armor Fragment**               |     **3%**    |
 |        <mark style="color:blue;">**Rayleigh**</mark>        |     **5%**    |
-|       <mark style="color:blue;">**Light Fruit**</mark>      |     2**%**    |
+|       <mark style="color:blue;">**Light Fruit**</mark>      |  &#x32;**%**  |
 
 {% hint style="warning" %}
 Opening three chests simultaneously is reserved for premium subscription holders.
