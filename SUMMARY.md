@@ -6,6 +6,7 @@
 
 * [🧷 In-Game Rules](general-information/in-game-rules.md)
 * [🤚 Discord Rules](general-information/discord-rules.md)
+* [🤚 Contributing](CONTRIBUTING_EN.Md)
 * [⁉️ Tutorials](general-information/tutorials/README.md)
   * [➡️ How to Join MinePiece ?](general-information/tutorials/how-to-join-minepiece.md)
   * [📘 How to Vote for MinePiece ?](general-information/tutorials/how-to-vote-for-minepiece.md)
